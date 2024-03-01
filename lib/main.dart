@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:provider/provider.dart';
 import 'package:shoeshop_flutter/models/shoe.dart';
-import 'package:shoeshop_flutter/providers/cart_provider.dart';
 import 'package:shoeshop_flutter/providers/shoe_provider.dart';
 import 'package:shoeshop_flutter/screens/home_screen.dart';
 

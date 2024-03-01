@@ -5,7 +5,6 @@ import 'package:http/http.dart';
 import 'package:provider/provider.dart';
 import 'package:shoeshop_flutter/constants.dart';
 import 'package:shoeshop_flutter/models/shoe.dart';
-import 'package:shoeshop_flutter/providers/cart_provider.dart';
 import 'package:shoeshop_flutter/providers/shoe_provider.dart';
 
 class ListItemCart extends StatefulWidget {

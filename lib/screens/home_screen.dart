@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/animation.dart';
 import 'package:provider/provider.dart';
 import 'package:shoeshop_flutter/constants.dart';
-import 'package:shoeshop_flutter/providers/cart_provider.dart';
 import 'package:shoeshop_flutter/providers/shoe_provider.dart';
 import 'package:shoeshop_flutter/screens/widget/cart_widget.dart';
 import 'package:shoeshop_flutter/screens/widget/custom_pain.dart';
