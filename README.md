@@ -24,7 +24,7 @@ This is an app with a beautiful interface and lively animation, allowing you to 
 - And I have also implemented smooth animation effects.
 
 
-```
+
 - Run your project locally:
 ```bash
 flutter pub get
