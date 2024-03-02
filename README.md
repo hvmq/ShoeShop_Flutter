@@ -21,8 +21,6 @@ This is an app with a beautiful interface and lively animation, allowing you to 
   - When there are no products in cart, we should show `Your cart is empty` message.
   - Products in cart should be persistent: When user visit the application, products are added before should be showed, user don't need to add products again.
 - I have executed Responsive design effectively.
-- And I have also implemented smooth animation effects.
-
 
 
 - Run your project locally:
@@ -32,6 +30,7 @@ flutter pub get
 ```bash
 flutter run
 ```
+- With render.com, if it is not used for a period of time, it will temporarily go offline until it is used again. Therefore, the first time loading the list of shoes will take a bit of time.
 
 
 ## Author
